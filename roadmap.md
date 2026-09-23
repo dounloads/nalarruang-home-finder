@@ -1,8 +1,8 @@
-# NalarRuang rebuild
+# NalarRuang civic-tech rebuild
 
-- [ ] Establish reusable toybox/scrapbook design system and branding
+- [x] Replace toybox/scrapbook styling with a civic-tech design system
 - [ ] Build responsive navigation and all landing sections
-- [ ] Build optimized interactive 3D hero with fallback and day/night mode
+- [x] Replace 3D hero with an optimized analytical map visual
 - [ ] Add local persona/layer/demo interactions and FAQ
 - [ ] Add `/app` placeholder and route metadata
 - [ ] Validate desktop/mobile visuals and interactions
